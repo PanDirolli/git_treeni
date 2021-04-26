@@ -1,4 +1,7 @@
-Lisäsin tämän työhakemistossa
+<<<<<<< HEAD
+Lisäsin tämän työhakemistossa & githubissa
+=======
+
 Tätä tekstiä ei ole paikallisessa työhakemistossa
 FFF
 asd
